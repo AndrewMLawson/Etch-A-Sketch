@@ -1,0 +1,15 @@
+#logodiv {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-color: green;
+    border-width: 2px;
+}
+#logo {
+    display: block;
+    margin: auto;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
+
